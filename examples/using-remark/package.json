@@ -8,7 +8,7 @@
     "babel-plugin-lodash": "^3.2.11",
     "bluebird": "^3.4.7",
     "es6-object-assign": "^1.1.0",
-    "gatsby": "^1.9.75",
+    "gatsby": "^2.0.0",
     "gatsby-image": "^1.0.5",
     "gatsby-link": "latest",
     "gatsby-plugin-catch-links": "latest",
@@ -33,13 +33,17 @@
     "slash": "^1.0.0",
     "typeface-space-mono": "^0.0.22",
     "typeface-spectral": "^0.0.29",
-    "typography": "^0.15.10"
+    "typography": "^0.15.10",
+    "snyk": "^1.161.1"
   },
   "license": "MIT",
   "main": "index.js",
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
-  }
+    "serve": "gatsby serve",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
