@@ -11,7 +11,7 @@
     "gatsby-plugin-netlify": "^1.0.0",
     "gatsby-plugin-sharp": "^1.6.10",
     "gatsby-plugin-typography": "^1.7.10",
-    "gatsby-source-filesystem": "^1.5.1",
+    "gatsby-source-filesystem": "^4.21.0",
     "gatsby-transformer-sharp": "^1.6.12",
     "numeral": "^2.0.6",
     "typeface-oswald": "^0.0.40",
