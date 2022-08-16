@@ -13,7 +13,7 @@
     "gatsby-plugin-manifest": "^1.0.8",
     "gatsby-plugin-offline": "^1.0.9",
     "gatsby-plugin-sharp": "^1.6.8",
-    "gatsby-source-filesystem": "^1.5.2",
+    "gatsby-source-filesystem": "^4.21.0",
     "gatsby-transformer-json": "^1.0.8",
     "gatsby-transformer-sharp": "^1.6.8",
     "instagram-screen-scrape": "^2.0.0",
