@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "Nadiia Dmytrenko <nadiia.dmytrenko@gmail.com>",
   "dependencies": {
-    "gatsby": "latest",
+    "gatsby": "5.0.0",
     "gatsby-link": "latest",
     "gatsby-plugin-google-analytics": "latest",
     "gatsby-plugin-offline": "latest",
