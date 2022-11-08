@@ -4,7 +4,7 @@
   "description": "Gatsby example site using using-csv",
   "author": "Sonal Saldanha <sonal.saldanha@gmail.com>",
   "dependencies": {
-    "gatsby": "latest",
+    "gatsby": "5.0.0",
     "gatsby-link": "latest",
     "gatsby-plugin-google-analytics": "latest",
     "gatsby-source-filesystem": "latest",
