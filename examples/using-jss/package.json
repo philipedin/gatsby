@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "Vladimir Guguiev <wizardzloy@gmail.com>",
   "dependencies": {
-    "gatsby": "latest",
+    "gatsby": "5.10.0",
     "gatsby-link": "latest",
     "gatsby-plugin-jss": "latest"
   },
