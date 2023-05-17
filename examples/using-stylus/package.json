@@ -10,7 +10,7 @@
   "author": "Ian Sinnott <ian@iansinnott.com>",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "latest",
+    "gatsby": "5.10.0",
     "gatsby-link": "latest",
     "gatsby-plugin-google-analytics": "latest",
     "gatsby-plugin-offline": "latest",
