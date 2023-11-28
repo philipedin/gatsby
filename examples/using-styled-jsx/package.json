@@ -6,7 +6,7 @@
   "dependencies": {
     "gatsby": "latest",
     "gatsby-link": "latest",
-    "gatsby-plugin-styled-jsx": "^1.0.7"
+    "gatsby-plugin-styled-jsx": "^2.0.1"
   },
   "license": "MIT",
   "main": "n/a",
