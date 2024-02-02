@@ -7,7 +7,7 @@
     "gatsby": "^1.9.77",
     "gatsby-image": "^1.0.14",
     "gatsby-link": "^1.6.23",
-    "gatsby-plugin-glamor": "^1.6.7",
+    "gatsby-plugin-glamor": "^3.11.0",
     "gatsby-plugin-netlify": "^1.0.0",
     "gatsby-plugin-sharp": "^1.6.10",
     "gatsby-plugin-typography": "^1.7.10",
