@@ -8,7 +8,7 @@
     "gatsby": "^1.9.45",
     "gatsby-image": "^1.0.4",
     "gatsby-link": "^1.6.21",
-    "gatsby-plugin-glamor": "^1.6.7",
+    "gatsby-plugin-glamor": "^3.11.0",
     "gatsby-plugin-react-helmet": "^2.0.1",
     "gatsby-plugin-sharp": "^1.6.7",
     "gatsby-plugin-styled-components": "^2.0.2",
