@@ -10,7 +10,7 @@
     "babel-runtime": "^6.26.0",
     "extract-text-webpack-plugin": "^1.0.1",
     "gatsby-1-config-css-modules": "^1.0.11",
-    "stylus": "^0.54.5",
+    "stylus": "^0.64.0",
     "stylus-loader": "webpack1"
   },
   "devDependencies": {
