@@ -83,7 +83,7 @@
     "path-exists": "^3.0.0",
     "postcss-browser-reporter": "^0.5.0",
     "postcss-cssnext": "^2.8.0",
-    "postcss-import": "^8.2.0",
+    "postcss-import": "^9.0.0",
     "postcss-loader": "^0.13.0",
     "postcss-reporter": "^1.4.1",
     "raw-loader": "^0.5.1",
