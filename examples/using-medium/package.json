@@ -9,7 +9,7 @@
   "dependencies": {
     "gatsby": "latest",
     "gatsby-link": "latest",
-    "gatsby-source-medium": "^1.0.1"
+    "gatsby-source-medium": "^5.14.0"
   },
   "keywords": [
     "gatsby"
